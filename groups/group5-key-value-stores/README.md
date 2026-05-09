@@ -3,7 +3,7 @@
 ## Group Members
 
 - Ilyas Tachakor
-- Nick Albrech
+- Nick Albrecht
 
 ## Overview
 
